@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-S@main
+@main
 struct Swiftful_ThinkingApp: App {
     var body: some Scene {
         WindowGroup {
